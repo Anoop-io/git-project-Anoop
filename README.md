@@ -10,3 +10,8 @@
 ## Projects
 - git : basics 
 - github : advance
+
+## Social skills
+-GitHub: https://github.com/Anoop-io
+- LinkedIn: www.linkedin.com/in/ anooppandey07
+
